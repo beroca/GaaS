@@ -1,0 +1,43 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+HELP.md
+.gradle
+/build/
+/bin
+/target
+!gradle/wrapper/gradle-wrapper.jar
+gradle.properties
+*.local
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
+*.iws
+*.iml
+*.ipr
+/out/
+/whitesource/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+src/config/*.properties
+/src/main/resources/application-dev.properties
