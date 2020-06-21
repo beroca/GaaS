@@ -1,2 +1,2 @@
 # GaaS
-German as a Service
+German (language, syntax, grammar) as a Service
